@@ -232,7 +232,7 @@
         }
     };
     window.script = script;
-
+    AOS.init();
 })(jQuery);
 
 $(document).ready(function () {
